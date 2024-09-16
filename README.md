@@ -17,3 +17,8 @@ Main contacts (please tag via GitHub issues in this repo):
 [schymane](https://github.com/schymane) or 
 [PaulThiessen](https://github.com/PaulThiessen).
 
+## License
+Content in this repository is shared under these license conditions:
+* Code: Artistic-2.0
+* Data: CC-BY 4.0 [(Creative Commons Attribution 4.0 International)](http://creativecommons.org/licenses/by/4.0/legalcode)
+
