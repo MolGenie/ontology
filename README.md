@@ -5,12 +5,22 @@ focusing primarily on organic chemistry. A separate Inorganic Chemistry Ontology
 The main contact person for MOCO is Lutz Weber ([lutzweber](https://github.com/lutzweber)). 
 
 ## The MolGenie Organic Chemistry Ontology (MOCO) in PubChem
-A version of MOCO is currently under development on the 
-[PubChem Classification Browser](https://pubchem.ncbi.nlm.nih.gov/classification/#hid=72) 
-and will be linked to the [MolGenie Data Source](https://pubchem.ncbi.nlm.nih.gov/source/27441) once public. 
-At this stage, MOCO is mapped up to the 1.7 million per- and polyfluorinated alkyl substances (PFAS) 
+A draft version of the MolGenie Organic Chemistry Ontology is currently available on the 
+[PubChem Classification Browser](https://pubchem.ncbi.nlm.nih.gov/classification/#hid=134) 
+and linked to the [MolGenie Data Source](https://pubchem.ncbi.nlm.nih.gov/source/27441). 
+The public version is mapped up to the 1.7 million per- and polyfluorinated alkyl substances (PFAS) 
 that were extracted as part of PFAS Set A as described in Barnabas _et al._ (2022) _Digital Discovery_ 
 DOI: [10.1039/D2DD00019A](https://doi.org/10.1039/D2DD00019A).
+
+An updated version is being developed that maps to several datasets, including:
+
+- The Chemicals of Biological Interest ([ChEBI](https://www.ebi.ac.uk/chebi/)) collection: ~175K chemical entities;
+- The [ChEMBL](https://www.ebi.ac.uk/chembl/) database of bioactive molecules with drug-like properties: ~2.4M chemical entities;
+- The [LOTUS](https://lotus.naturalproducts.net/) collection of natural products: ~210K chemical entities;
+- The PFAS collection described in Barnabas _et al._ (2022) DOI: [10.1039/D2DD00019A](https://doi.org/10.1039/D2DD00019A): ~1.8M chemical entities;
+- The [ZeroPM](https://database.zeropm.eu/) Global Chemical Inventory (GCI) collection: ~180K chemical entities;
+- The November 2024 version of [PubChemLite](https://pubchemlite.lcsb.uni.lu/): ~400K chemical entities.
+
 
 Main contacts (please tag via GitHub issues in this repo): 
 [lutzweber](https://github.com/lutzweber), 
